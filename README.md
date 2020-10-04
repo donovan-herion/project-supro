@@ -1,10 +1,10 @@
 # Description of Project Supro
 
-[Here](https://rasamizafyb.github.io/project-supro/) you can see our project, the online store of the brand **SUPRO**.
+[Link to the website](https://donovan-herion.github.io/project-supro/)
 
 - First integration project with provided design.
 
-Below you can see the different people who worked together to carry out this project as well as their respective roles.
+- Below you can see the different people who worked together to carry out this project as well as their respective roles.
 
 ## What does Donovan have to do ?
 
