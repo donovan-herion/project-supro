@@ -1,4 +1,4 @@
-# Description of Project Supro
+# Description of the project
 
 [Link to the website](https://donovan-herion.github.io/project-supro/)
 
