@@ -2,17 +2,17 @@
 
 [Link to the website](https://donovan-herion.github.io/project-supro/)
 
-- First integration project with provided design.
+- First integration team-project with provided design.
 
 - Below you can see the different people who worked together to carry out this project as well as their respective roles.
 
 ## What does Donovan have to do ?
 
-- Development and design of the **Homepage**
+- **Homepage**
+- **footer**
 - Make sure that the website is responsive
 - Help others as soon as he's done with the Homepage
-- HTML / (S)CSS / Maybe a bit of Javascript in case we have enough time left
-- footer
+- HTML / CSS / Maybe a bit of Javascript in case we have enough time left
 
 ## What does Bryan have to do ?
 
